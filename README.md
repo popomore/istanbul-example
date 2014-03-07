@@ -2,7 +2,7 @@
 
 ---
 
-## Instruction
+## Introduction
 
 use istanbul for coverage
 
