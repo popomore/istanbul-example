@@ -1,17 +1,13 @@
-# istanbul-example
-
-> The best project ever.
+# Istanbul Example
 
 ---
 
-## Install
+## Instruction
 
-```
-$ npm install istanbul-example -g
-```
+use istanbul for coverage
 
-## Usage
+- test with mocha, should.js
+- support travis, see [result](https://travis-ci.org/popomore/istanbul-example/builds)
+- support coveralls
 
-```
-$ istanbul-example
-```
+run test with `make test`, run coverage with `make coverage`
